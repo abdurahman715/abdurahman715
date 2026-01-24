@@ -49,8 +49,8 @@
     </tr>
   </tbody>
 </table>
----
 
+---
 ## 📊 GitHub Stats
 ![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default)
 
