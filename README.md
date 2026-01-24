@@ -49,9 +49,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aburahman715&show_icons=true&theme=default)
+![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aburahman715&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahman715&layout=compact)
 
 ---
 
