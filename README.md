@@ -39,7 +39,6 @@
 Full-stack web application to manage tools, users, and shops with role-based access.
 
 🔗 **Repository:** https://github.com/abdurahman715/User-Management-System  
-🌐 **Live Demo:** https://your-live-link.com  
 
 **Key Features**
 - Admin can manage users and shops
@@ -47,7 +46,7 @@ Full-stack web application to manage tools, users, and shops with role-based acc
 - Users can rent, buy, or repair tools
 - JWT-based authentication
 
-[![User Management System](screenshots/dashboard.png)](https://your-live-link.com)
+![User Management System](screenshots/dashboard.png)
 
 ## 📊 GitHub Stats
 ![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default)
