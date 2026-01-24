@@ -49,35 +49,6 @@ Full-stack web application to manage tools, users, and shops with role-based acc
 - JWT-based authentication
 
 [![Tools Management System](screenshots/Screenshot 2025-07-25 203940.png)](https://your-live-link.com)
-
----
-
-### 🔹 MERN CRUD Application
-A complete CRUD application built using the MERN stack.
-
-🔗 **Repository:** https://github.com/abdurahman715/mern-crud-app  
-
-**Key Features**
-- Create, read, update, delete operations
-- RESTful API integration
-- MongoDB database operations
-
-[![MERN CRUD App](screenshots/crud-home.png)](https://github.com/abdurahman715/mern-crud-app)
-
----
-
-### 🔹 Authentication System
-Secure authentication system using JWT and bcrypt.
-
-🔗 **Repository:** https://github.com/abdurahman715/auth-system  
-
-**Key Features**
-- User signup & login
-- Password hashing with bcrypt
-- JWT-based protected routes
-
-[![Auth System](screenshots/auth-login.png)](https://github.com/abdurahman715/auth-system)
-
 ---
 ## 📊 GitHub Stats
 ![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default)
