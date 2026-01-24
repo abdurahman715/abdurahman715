@@ -56,5 +56,5 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 📧 Email: yourmail@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/muhammed-abdurahman-ck
+- 📧 Email: abdurahmanck715@gmail.com
