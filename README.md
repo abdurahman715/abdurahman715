@@ -35,7 +35,6 @@
 ---
 
 ## 📌 Projects
-
 ### 🔹 User Management System
 Full-stack web application to manage tools, users, and shops with role-based access.
 
@@ -48,8 +47,8 @@ Full-stack web application to manage tools, users, and shops with role-based acc
 - Users can rent, buy, or repair tools
 - JWT-based authentication
 
-[![User Management System](screenshots/https://github.com/abdurahman715/User-Management-System/blob/main/screenshots/Screenshot%202026-01-24%20134422.png)](https://your-live-link.com)
----
+[![User Management System](screenshots/dashboard.png)](https://your-live-link.com)
+
 ## 📊 GitHub Stats
 ![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default)
 
