@@ -35,19 +35,50 @@
 ---
 
 ## 📌 Projects
-- 🔹 **Tools Management System**  
-  Full-stack app for managing tools, users, and shops
 
-- 🔹 **MERN CRUD Application**  
-  Complete CRUD with MongoDB & Express
+### 🔹 Tools Management System
+Full-stack web application to manage tools, users, and shops with role-based access.
 
-- 🔹 **Authentication System**  
-  Login & signup using JWT and bcrypt
+🔗 **Repository:** https://github.com/abdurahman715/tools-management-system  
+🌐 **Live Demo:** https://your-live-link.com  
 
-👉 More projects coming soon…
+**Key Features**
+- Admin can manage users and shops
+- Shop owners can add/update tools
+- Users can rent, buy, or repair tools
+- JWT-based authentication
+
+[![Tools Management System](screenshots/tools-home.png)](https://your-live-link.com)
 
 ---
 
+### 🔹 MERN CRUD Application
+A complete CRUD application built using the MERN stack.
+
+🔗 **Repository:** https://github.com/abdurahman715/mern-crud-app  
+
+**Key Features**
+- Create, read, update, delete operations
+- RESTful API integration
+- MongoDB database operations
+
+[![MERN CRUD App](screenshots/crud-home.png)](https://github.com/abdurahman715/mern-crud-app)
+
+---
+
+### 🔹 Authentication System
+Secure authentication system using JWT and bcrypt.
+
+🔗 **Repository:** https://github.com/abdurahman715/auth-system  
+
+**Key Features**
+- User signup & login
+- Password hashing with bcrypt
+- JWT-based protected routes
+
+[![Auth System](screenshots/auth-login.png)](https://github.com/abdurahman715/auth-system)
+
+---
 ## 📊 GitHub Stats
 ![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default)
 
