@@ -1,14 +1,60 @@
-## Hi there 👋
+# Hi 👋 I'm Abdurahman
 
-**abdurahman715/abdurahman715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Developer (MERN)  
+💻 Passionate about building real-world web applications  
+🎯 Targeting product-based companies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👨‍💻 About Me
+- 🎓 BSc Computer Science graduate
+- 🔥 Currently learning **MERN Stack** & **Data Structures**
+- 🌱 Interested in **AI & modern web technologies**
+- 💡 Believe in consistency, discipline, and growth
+
+---
+
+## 🛠️ Tech Stack
+**Frontend**
+- HTML, CSS, JavaScript
+- React.js
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools & Others**
+- Git & GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Projects
+- 🔹 **Tools Management System**  
+  Full-stack app for managing tools, users, and shops
+
+- 🔹 **MERN CRUD Application**  
+  Complete CRUD with MongoDB & Express
+
+- 🔹 **Authentication System**  
+  Login & signup using JWT and bcrypt
+
+👉 More projects coming soon…
+
+---
+
+## 📊 GitHub Stats
+![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aburahman715&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aburahman715&layout=compact)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+- 📧 Email: yourmail@gmail.com
