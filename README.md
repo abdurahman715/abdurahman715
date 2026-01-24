@@ -36,10 +36,10 @@
 
 ## 📌 Projects
 
-### 🔹 Tools Management System
+### 🔹 User Management System
 Full-stack web application to manage tools, users, and shops with role-based access.
 
-🔗 **Repository:** https://github.com/abdurahman715/tools-management-system  
+🔗 **Repository:** https://github.com/abdurahman715/Tools-Management-System  
 🌐 **Live Demo:** https://your-live-link.com  
 
 **Key Features**
@@ -48,7 +48,7 @@ Full-stack web application to manage tools, users, and shops with role-based acc
 - Users can rent, buy, or repair tools
 - JWT-based authentication
 
-[![Tools Management System](screenshots/Screenshot 2025-07-25 203940.png)](https://your-live-link.com)
+[![User Management System](screenshots/https://github.com/abdurahman715/User-Management-System/blob/main/screenshots/Screenshot%202026-01-24%20134422.png)](https://your-live-link.com)
 ---
 ## 📊 GitHub Stats
 ![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default)
