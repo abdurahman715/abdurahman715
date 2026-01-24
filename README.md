@@ -48,7 +48,7 @@ Full-stack web application to manage tools, users, and shops with role-based acc
 - Users can rent, buy, or repair tools
 - JWT-based authentication
 
-[![Tools Management System](screenshots/tools-home.png)](https://your-live-link.com)
+[![Tools Management System](screenshots/Screenshot 2025-07-25 203940.png)](https://your-live-link.com)
 
 ---
 
