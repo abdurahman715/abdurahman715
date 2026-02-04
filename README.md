@@ -53,11 +53,11 @@
 ---
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdurahman7&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default" />
 
 ## 🔤 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahman7&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahman715&layout=compact" />
 
 ---
 
