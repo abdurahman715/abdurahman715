@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td>Backend</td>
-      <td>Node.js, Express.js, Django (Python)</td>
+      <td>Node.js, Express.js</td>
     </tr>
     <tr>
       <td>Database</td>
