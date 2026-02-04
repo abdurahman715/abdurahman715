@@ -51,15 +51,6 @@
 </table>
 
 ---
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default" />
-
-## 🔤 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahman715&layout=compact" />
-
----
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/muhammed-abdurahman-ck
