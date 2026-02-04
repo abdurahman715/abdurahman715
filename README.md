@@ -52,9 +52,12 @@
 
 ---
 ## 📊 GitHub Stats
-![Abdurahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurahman715&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahman715&layout=compact)
+![Abdurahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurahman7&show_icons=true&theme=default)
+
+## 🔤 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahman7&layout=compact)
 
 ---
 
