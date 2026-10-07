@@ -10,7 +10,7 @@ Learning something new every day.
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Engineer;Backend+%26+System+Design+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Software+Developer;Full-Stack+Engineer;Backend+%26+System+Design+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" />
 </p>
 
 ---
