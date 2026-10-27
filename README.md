@@ -60,53 +60,42 @@ Git · GitHub · Docker · AWS · Microservices · System Design
 
 ## Featured Projects
 
-### Job Portal
+### 1. URL Shortener
 
-Full-stack job portal built to handle job-seeker and recruiter workflows.
+A full-stack URL shortener application that converts long URLs into short, shareable links, with QR code generation and convenient link management features.
 
-**Built with:** JavaScript · React · Node.js · Express · MongoDB
+**Built with:** React · Node.js · Express.js · MongoDB · Tailwind CSS
 
-* Authentication and authorization
-* Role-based access control
-* Job creation and management
-* Job search and applications
-* REST API architecture
+* URL shortening with unique short links
+* REST API integration for URL creation
+* QR code generation and download
+* Copy-to-clipboard functionality
+* Asynchronous API requests with loading and error handling
+* Responsive user interface
 
-[View Repository](https://github.com/YOUR_USERNAME/project-link)
+**Key Highlights:** Full-stack development, REST API integration, database operations, and frontend-backend communication.
+
+[View Repository](https://github.com/abdurahman715)
 
 ---
 
-### E-Commerce Platform
+### 2. GreenCart — E-Commerce Platform
 
-Full-stack e-commerce application focused on real-world frontend and backend integration.
+A full-stack grocery e-commerce application designed to provide a seamless online shopping experience with dedicated user and admin functionality.
 
-**Built with:** React · Node.js · Express · MongoDB
+**Built with:** React · Node.js · Express.js · MongoDB · Tailwind CSS · Razorpay
 
-* Authentication
-* Product management
-* Shopping cart
+* User authentication and authorization using JWT
+* Product listing and management
+* Shopping cart functionality
 * Order management
-* REST API integration
-* Responsive interface
+* Admin dashboard and protected routes
+* Razorpay payment integration
+* Responsive user interface
 
-[View Repository](https://github.com/YOUR_USERNAME/project-link)
+**Key Highlights:** E-commerce workflows, authentication, payment integration, database management, and full-stack application development.
 
----
-
-### Backend API
-
-Backend-focused application exploring API architecture and database design.
-
-**Built with:** Node.js · Express · PostgreSQL · TypeScript
-
-* RESTful API design
-* Authentication
-* Input validation
-* PostgreSQL integration
-* Modular architecture
-* Database optimization
-
-[View Repository](https://github.com/YOUR_USERNAME/project-link)
+[View Repository](https://github.com/abdurahman715)
 
 ---
 
@@ -167,14 +156,13 @@ AI Engineering
 
 ## Connect
 
-LinkedIn
-https://linkedin.com/in/muhammed-abdurahman-ck
+**LinkedIn:** [Muhammed Abdurahman CK](https://linkedin.com/in/muhammed-abdurahman-ck)
 
-Email
-[abdurahmanck715@gmail.com](mailto:abdurahmanck715@gmail.com)
+**Email:** [abdurahmanck715@gmail.com](mailto:abdurahmanck715@gmail.com)
 
 ---
 
 <p align="center">
   <i>Building. Learning. Improving.</i>
 </p>
+
